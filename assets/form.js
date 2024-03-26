@@ -34,7 +34,3 @@ formAdd.addEventListener('submit', function (event) {
     }
 });
   
-
-//need to append blog to blogs(?) see activity 26
-//need an event listener to listen to submit button and go to another page then
-//look at the bubble up activity to see how to do a window.location.href to go from the form to the blog, make back button too
